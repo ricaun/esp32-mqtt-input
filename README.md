@@ -16,9 +16,9 @@ esp32 webserver/mqtt input reader
 * mqtt_server - mqtt server name/ip
 * mqtt_user - mqtt user
 * mqtt_pass - mqtt password
-* mqtt_topic - initial mqtt topic 
+* mqtt_topic - initial mqtt topic (Default esp32)
 
 ## MQTT Dash Config
 
-<img src="img/home.jpeg" alt="home">
-<img src="img/input.jpeg" alt="input">
+Default configuration on MQTT Dash
+<img src="img/home.jpeg" alt="home" width="25%"><img src="img/input.jpeg" alt="input" width="25%">
