@@ -21,4 +21,5 @@ esp32 webserver/mqtt input reader
 ## MQTT Dash Config
 
 Default configuration on MQTT Dash
+
 <img src="img/home.jpeg" alt="home" width="25%"><img src="img/input.jpeg" alt="input" width="25%">
