@@ -23,3 +23,9 @@ esp32 webserver/mqtt input reader
 Default configuration on MQTT Dash
 
 <img src="img/home.jpeg" alt="home" width="25%"><img src="img/input.jpeg" alt="input" width="25%">
+
+----
+<br>
+<div align="center">
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+</div>
